@@ -1,0 +1,12 @@
+.items-div {
+  background-color: aliceblue;
+  padding: 2%;
+  border: 2px solid black;
+  border-radius: 10px;
+}
+.btn-goto-form-div {
+  display: flex;
+  justify-content: center;
+
+  align-items: center;
+}
